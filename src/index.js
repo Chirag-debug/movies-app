@@ -4,9 +4,10 @@ import './index.css';
 
 import reportWebVitals from './reportWebVitals';
 // import registerServiceWorker from './registerServiceWorker';
+import Home from './screens/home/Home';
 
 ReactDOM.render(
-  <div></div>,
+  <Home />,
   document.getElementById('root')
 );
 
